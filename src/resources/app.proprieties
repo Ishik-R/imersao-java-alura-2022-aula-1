@@ -1,0 +1,13 @@
+//TODO: vincular links e fazer com que o App.java chame estes links.
+
+// Link alternativo: conexão HTTP para o top 250 filmes
+// top.250.movies = https://imdb-api.com/en/API/Top250Movies/
+
+// Link alternativo: conexão HTTP para os filmes mais populares
+//most.popular.movies = https://imdb-api.com/en/API/MostPopularMovies/
+
+// Link alternativo: conexão HTTP para o top 250 séries
+//top.250.tv = https://imdb-api.com/en/API/Top250TVs/
+
+// Link alternativo: conexão HTTP para as séries mais populares
+//most.popular.tv=https://imdb-api.com/en/API/MostPopularTVs/
