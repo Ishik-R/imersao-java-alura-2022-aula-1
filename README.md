@@ -21,3 +21,6 @@ Não estarei colocando os vídeos diretamente da semana da Imersão Java já que
 
 ### Classe pronta que utiliza Expressões Regulares para fazer parse de um JSON.
 * Link: https://gist.github.com/alexandreaquiles/cf337d3bcb59dd790ed2b08a0a4db7a3
+
+### Regex101: ferramenta para acompanhar e ilustrar o funcionamento do regex.
+* Link: https://regex101.com/

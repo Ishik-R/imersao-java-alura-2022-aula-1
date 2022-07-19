@@ -21,8 +21,14 @@ public class App {
         // Extrair os dados pertinentes: título, poster e a avaliação.
         var parser = new JsonParser(); 
         List<Map<String, String>> listaDeFilmes = parser.parse(body);
-        System.out.println(listaDeFilmes.size());
 
         // Exibir e manipular os dados extraídos.
+        for (Map<String, String> filme : listaDeFilmes) {
+            System.out.println("#" + filme.get("rank") + ": " + filme.get("title"));
+            System.out.println(filme.get("image"));
+            System.out.println(filme.get("imDbRating"));
+            System.out.println();
+        }
+
     }
 }
